@@ -2,15 +2,21 @@
 
 Contenidos:
 
-1) PRE-ATT y CK
-2) Reconocimiento
-3) Armamento de cargas
-4) Entrega de cargas
-5) Comando y control
-6) Movimiento lateral
-7) Establecer un punto de apoyo
-8) Escalar privilegios
-9) Exfiltración de datos
-10) Misceláneos
+1) Reconocimiento
+2) Armamento de cargas
+3) Entrega de cargas
+4) Comando y control
+5) Movimiento lateral
+6) Establecer un punto de apoyo
+7) Escalar privilegios
+8) Exfiltración de datos
+9) Misceláneos
 
+
+# Reconocimiento
+
+Nmap: Esta Herramienta se utiliza para descubrir hosts,servicios, puertos y protocolos en una red informática, construyendo así un "mapa" de la red
+Link: https://github.com/nmap/nmap
+
+Sn1per: 
 

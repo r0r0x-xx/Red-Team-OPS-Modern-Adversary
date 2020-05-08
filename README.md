@@ -31,5 +31,5 @@ Una fuente de información, entrenamientos, material completamente libre así co
                                   |  _ \ / ___| ___| / _ \ / /_  
                                   | | | | |   |___ \| | | | '_ \ 
                                   | |_| | |___ ___) | |_| | (_) |
-                                   |____/ \____|____/ \___/ \___/ 
+                                  |____/ \____|____/ \___/ \___/ 
 

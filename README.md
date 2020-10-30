@@ -17,6 +17,8 @@ This compilation of tools and material is very much influenced by the infosecn1n
              
              
 ## Contents
+
+* [Training](#Training)
 * [Reconnaissance](#reconnaissance)
 * [Weaponization](#weaponization)
 * [Delivery](#delivery)
@@ -27,6 +29,12 @@ This compilation of tools and material is very much influenced by the infosecn1n
 * [Data Exfiltration](#data-exfiltration)
 * [Misc](#misc)
 * [References](#references)
+
+
+
+## Training 
+
+
 
 
 ## Reconnaissance
